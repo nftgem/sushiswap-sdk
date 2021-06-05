@@ -1,19 +1,14 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@unigem/sdk",
   "license": "MIT",
-  "version": "5.0.0-canary.12",
-  "description": "🛠 An SDK for building applications on top of Sushiswap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of unigem.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
-  "keywords": [
-    "uniswap",
-    "sushiswap",
-    "ethereum"
-  ],
+  "repository": "https://github.com/nftgem/unigem-sdk",
   "module": "dist/sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
